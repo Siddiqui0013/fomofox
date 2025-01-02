@@ -10,7 +10,7 @@ export default function Hero() {
           </div>
           <div className="hero flex justify-end items-center gap-12 mt-12 ">
           
-            <div className="text text-center flex flex-col items-center gap-12 w-[95%] md:w-[50%]">
+            <div className="text text-center flex flex-col mx-auto md:m-0 items-center gap-12 w-[95%] md:w-[50%]">
             <h1 className="text-5xl md:text-7xl mt-6 heading text-[#E36127]">FOMOFOX</h1>
             <p className="text-lg md:text-2xl ">Introducing FOMFOX – the fearless and foxy meme token that thrives 
 on the thrill of FOMO! Quick, clever, and always ahead of the pack, 
